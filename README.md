@@ -38,5 +38,5 @@
 
 
 <p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridvankuntug&show_icons=true&locale=en&layout=compact" alt="ridvankuntug" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridvankuntug&show_icons=true&locale=en&layout=compact&theme=dark&title_color=0088FF&border_color=0088FF" alt="ridvankuntug" />
 </p>
