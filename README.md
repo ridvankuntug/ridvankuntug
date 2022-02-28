@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi, I’m @RidvanKuntug</h1>
-<h4> 💻 I’m a Computer Engineer</h4>
+<h3> 💻 I’m a Computer Engineer</h3>
 
 
 🧬 I improv myself in Backend development with mostly **.Net and PHP**
@@ -19,7 +19,7 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 	<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
 
-<h4 align="left">📫 How to reach me:</h4>
+<h3 align="left">📫 How to reach me:</h3>
 
 <p align="left">
 <a href="mailto:ridvankuntug" target="blank"><img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="ridvankuntug" height="40" width="40" /></a>
